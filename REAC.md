@@ -4,7 +4,7 @@
 
 ### 1. Installer et configurer son environnement de travail en fonction du projet
 
-    Savoirs, savoir-faire :
+Savoirs, savoir-faire :
 
 - [x] Mettre en place et utiliser un environnement de développement intégré y compris en anglais
 - [x] Comprendre la documentation technique de l’environnement de travail, en langue française ou anglaise,
@@ -23,7 +23,7 @@ collaboratives, sans impacter les autres utilisateurs
 
 ### 2. Développer des interfaces utilisateur
 
-    Savoirs, savoir-faire :
+Savoirs, savoir-faire :
 
 - [x] Coder dans un langage de programmation, en adoptant un style défensif
 - [x] Utiliser un langage de présentation HyperText Markup Language (HTML), Cascading Style Sheets (CSS),
@@ -81,7 +81,7 @@ utilisateur
 
 ### 3. Développer des composants métier
 
-    Savoirs, savoir-faire :
+Savoirs, savoir-faire :
 
 - [x] Coder dans un langage orienté objet avec un style défensif
 - [ ] Appeler des Web Services dans un composant serveur
@@ -126,7 +126,7 @@ métier d’une application
 
 ### 4. Contribuer à la gestion d'un projet informatique
 
-    Savoirs, savoir-faire :
+Savoirs, savoir-faire :
 
 - [ ] Mettre en œuvre les procédures de la démarche qualité
 - [x] Utiliser un outil collaboratif de gestion de projet
@@ -151,7 +151,7 @@ charge, de suivi en temps réel
 
 ### 1. Analyser les besoins et maquetter une application
 
-    Savoirs, savoir-faire :
+Savoirs, savoir-faire :
 
 - [x] Analyser un cahier des charges en identifiant les limites du système, les acteurs et les messages
 - [x] Formaliser les besoins utilisateur (use cases, user stories ou autre)
@@ -183,7 +183,7 @@ RGPD, tels que les guides de la commission nationale de l'informatique et des li
 
 ### 2. Définir l'architecture logicielle d'une application
 
-    Savoirs, savoir-faire :
+Savoirs, savoir-faire :
 
 - [x] Définir l’architecture logicielle en identifiant les Framework et ORM à utiliser
 - [ ] Adapter l’architecture logicielle aux besoins des utilisateurs et à la stratégie de sécurité selon les
@@ -206,7 +206,7 @@ confidentialité, preuve (DICP)
 
 ### 3. Concevoir et mettre en place une base de données relationnelle 
 
-    Savoirs, savoir-faire :
+Savoirs, savoir-faire :
 
 - [x] Recenser les informations du domaine étudié
 - [x] Construire le schéma conceptuel des données
@@ -242,7 +242,7 @@ comptes, politique de mots de passe
 
 ### 4. Développer des composants d'accés aux données SQL et NoSQL
 
-    Savoirs, savoir-faire :
+Savoirs, savoir-faire :
 
 - [x] Coder de façon sécurisée les accès aux données relationnelles ou non relationnelles en consultation,
 création, mise à jour et suppression
@@ -283,7 +283,7 @@ relationnelles
 
 ### 1. Préparer et éxecuter les plans de tests d'une application
 
-    Savoirs, savoir-faire :
+Savoirs, savoir-faire :
 
 - [ ] Rédiger un plan de tests
 - [ ] Créer un environnement de test
@@ -305,7 +305,7 @@ logiciel (International Software Testing Qualifications Board ISTQB)
 
 ### 2. Préparer et documenter le déploiement d'une application
 
-    Savoirs, savoir-faire :
+Savoirs, savoir-faire :
 
 - [ ] Prendre en compte les dépendances du composant à déployer vis-à-vis des composants externes
 - [ ] Prendre en compte les évolutions de versions de l’ensemble des composants, y compris les composants
@@ -325,7 +325,7 @@ expression du CECRL pour l’anglais)
 
 ### 3. Contribuer à la mise en production dans une démarce DevOps
 
-    Savoirs, savoir-faire :
+Savoirs, savoir-faire :
 
 - [x] Savoir utiliser un gestionnaire de conteneurs
 - [x] Savoir gérer des stacks de conteneurs (avec un outil de type docker compose)
