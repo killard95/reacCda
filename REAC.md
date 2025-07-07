@@ -4,41 +4,41 @@
 
 1. Installer et configurer son environnement de travail en fonction du projet
 
-### Savoirs
+Savoirs :
 
 []
 
-### Savoir-faire
+Savoir-faire :
 
 []
 
 2. Développer des interfaces utilisateur
 
-### Savoirs
+Savoirs :
 
 []
 
-### Savoir-faire
+Savoir-faire :
 
 []
 
 3. Développer des composants métier
 
-### Savoirs
+Savoirs :
 
 []
 
-### Savoir-faire
+Savoir-faire :
 
 []
 
 4. Contribuer à la gestion d'un projet informatique
 
-### Savoirs
+Savoirs :
 
 []
 
-### Savoir-faire
+Savoir-faire :
 
 []
 
@@ -48,41 +48,41 @@
 
 1. Analyser les besoins et maquetter une application
 
-### Savoirs
+Savoirs :
 
 []
 
-### Savoir-faire
+Savoir-faire :
 
 []
 
 2. Définir l'architecture logicielle d'une application
 
-### Savoirs
+Savoirs :
 
 []
 
-### Savoir-faire
+Savoir-faire :
 
 []
 
-3. Concevoir et mettre e place une base de données 
+3. Concevoir et mettre en place une base de données relationnelle 
 
-### Savoirs
+Savoirs :
 
 []
 
-### Savoir-faire
+Savoir-faire :
 
-[]relationnelle
+[]
 
 4. Développer des composants d'accés aux données SQL et NoSQL
 
-### Savoirs
+Savoirs :
 
 []
 
-### Savoir-faire
+Savoir-faire :
 
 []
 
@@ -91,31 +91,31 @@
 
 1. Préparer et éxecuter les plans de tests d'une application
 
-### Savoirs
+Savoirs :
 
 []
 
-### Savoir-faire
+Savoir-faire :
 
 []
 
 2. Préparer et documenter le déploiement d'une application
 
-### Savoirs
+Savoirs :
 
 []
 
-### Savoir-faire
+Savoir-faire :
 
 []
 
 3. Contribuer à la mise en production dans une démarce DevOps
 
-### Savoirs
+Savoirs :
 
 []
 
-### Savoir-faire
+Savoir-faire :
 
 []
 
